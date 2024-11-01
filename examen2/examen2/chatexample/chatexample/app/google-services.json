@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63141290749",
+    "project_id": "rayproject-58dfa",
+    "storage_bucket": "rayproject-58dfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63141290749:android:2693e206512f5efe449494",
+        "android_client_info": {
+          "package_name": "com.example.chatexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUhwBadSFBXhB4k7hOVQasO7Kf0OcqSTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
